@@ -1,2 +1,2 @@
 # explore_mars
-tech used: python; flask; basic HTM/CSS/JS
+* tech used: BeautifulSoup, Pandas, Requests/Splinter, Flask; basic HTM/CSS/JS
